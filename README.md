@@ -1,2 +1,4 @@
 # zingMp3
 Tool get link mp3 Zing 320kbps
+
+![Code Demo](http://tutran.net/wp-content/uploads/tool-get-mp3-zing-320kbps.png)
