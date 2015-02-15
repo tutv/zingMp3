@@ -2,6 +2,7 @@
 # File and folder of IntelliJ IDEA
 .idea/
 out/
+zingMp3.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
